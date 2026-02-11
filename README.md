@@ -1,17 +1,41 @@
-Library Management System
+Library Management System (Servlet + JDBC)
+📌 Project Description
 
-This project is a Java web application developed using Java Servlets and JDBC. It demonstrates how to handle HTTP requests and responses, connect to a database using JDBC, and perform basic database operations. The project showcases the fundamentals of backend web development using Java and follows the MVC architecture concept.
+This project is a Library Management System built using Java Servlets, JDBC, and a relational database (for example, MySQL). It allows users to manage book records and perform library operations through a web interface by connecting to the database using JDBC.
 
-Technologies Used:
+🚀 Features
 
-Java
+Add, update, delete book information
 
-Servlets
+List and search books
 
-JDBC
+Manage book records using servlet controllers
 
-HTML
+Database operations using JDBC
 
-Apache Tomcat
+Web interface for user interaction
 
-MySQL (or any relational database)
+🛠 Technologies Used
+
+Java Servlets
+
+JDBC (Java Database Connectivity)
+
+MySQL (or your chosen RDBMS)
+
+HTML / JSP (for frontend pages)
+
+Apache Tomcat (or other servlet container)
+
+(Adjust names if your actual file names differ.)
+
+
+🎯 Learning Outcomes
+
+Understand how to use Servlets to handle HTTP requests
+
+Learn how to connect Java apps to a database using JDBC
+
+Perform CRUD operations with SQL
+
+Build a basic web application with database interaction
